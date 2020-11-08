@@ -1,0 +1,47 @@
+@import '/css/reset.css';
+
+html {
+  font-size: 62.5%;
+  box-sizing: border-box;
+  height: 100%;
+  
+}
+*,
+*:before,
+*:after {
+  box-sizing: inherit;
+  
+}
+
+.header{
+  background-color: rgba(241, 228, 184, 1);
+
+}
+
+.left{
+  display: flex;
+  flex-direction: column;
+  background-color: rgba(241, 228, 184, 1);
+}
+
+.layout{
+  display: flex;
+}
+
+
+.prices{
+ background-color: rgba(241, 228, 184, 1);
+}
+
+.menubar{  
+  display: flex;
+  justify-content: space-between;
+  align-content: flex-end;
+  background-color: black;
+
+}
+
+.menuitem{
+  color: white;
+
+}
