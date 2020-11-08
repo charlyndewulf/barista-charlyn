@@ -13,6 +13,10 @@ html {
   
 }
 
+body {
+  font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif;
+}
+
 .header{
   background-color: rgba(241, 228, 184, 1);
 
